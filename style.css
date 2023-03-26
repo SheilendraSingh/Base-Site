@@ -1,0 +1,208 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+.navbar {
+  background-color: #3a98b9;
+  margin: 0;
+  padding: 1px;
+  top: 0;
+  left: 0;
+  position: sticky;
+  overflow: initial;  
+}
+.navlist {
+  list-style: none;
+  display: flex;
+  
+}
+.navlist li {
+  flex: auto;
+}
+.li_anchor {
+  text-decoration: none;
+  color: #fff1dc;
+  cursor: pointer;
+}
+.li_anchor:hover {
+  color: #1b4656;
+}
+.fa-house {
+  color: #fff1dc;
+}
+.fa-house:hover {
+  color: #1b4656;
+}
+.container1 {
+  background-color: #eeeeee;
+  padding: 5% 0 10% 0;
+}
+.para1 {
+  font-weight: 700;
+  font-size: 20px;
+  margin: 0;
+  padding: 5% 20%;
+  text-align: center;
+}
+.marquee1 {
+  font-size: 25px;
+  font-weight: 700;
+}
+.container2 {
+  background-color: #3a98b9;
+  margin: 0;
+  padding: 10px;
+  padding: 5% 0 10% 0;
+}
+h2 {
+  color: #fff1dc;
+  text-align: center;
+  font-weight: 700;
+  font-size: 30px;
+}
+.form {
+  background-color: #88d2ec;
+  max-width: 480px;
+  margin: 0;
+  padding: 30px;
+  border-radius: 20px;
+  margin-left: 33%;
+}
+.form_row {
+  margin: 15px 0;
+}
+.label {
+  display: inline-block;
+  color: #fff1dc;
+}
+.input {
+  float: right;
+  width: 70%;
+  border-radius: 4px;
+  border: none;
+  box-shadow: 2px 2px 2px 0 rgb(98, 98, 98);
+  height: 18px;
+}
+.list1 {
+  list-style: none;
+  display: flex;
+  padding-left: 0;
+  padding-top: 15px;
+}
+.l1_1 {
+  flex: auto;
+  text-align: left;
+  font-size: 13px;
+}
+.l2_1 {
+  text-align: right;
+  margin-right: 10px;
+  font-size: 13px;
+}
+.forgot_Pass {
+  color: #fff1dc;
+}
+.forgot_Pass:hover {
+  color: #3a98b9;
+}
+#checkbox{
+    cursor: pointer;
+}
+.Sign_In_Btn {
+  margin-left: 42%;
+  border: none;
+  border-radius: 20px;
+  padding: 15px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff1dc;
+  background-color: #3a98b9;
+  box-shadow: 5px 5px 5px 0 rgb(61, 61, 61);
+  margin-bottom: 15px;
+}
+.Sign_In_Btn:hover {
+  background-color: #153540;
+  cursor: pointer;
+}
+.list2 {
+  list-style: none;
+  display: flex;
+  padding-left: 0;
+  padding-top: 15px;
+}
+.l1_2 {
+  flex: auto;
+  text-align: left;
+  font-size: 13px;
+  color: #fff1dc;
+}
+.l2_2 {
+  text-align: right;
+  margin-right: 10px;
+  font-size: 13px;
+}
+.Sign_Up {
+  text-decoration: none;
+  color: #fff1dc;
+}
+.Sign_Up:hover {
+  color: #3a98b9;
+}
+.container3 {
+  background: #eeeeee;
+  margin: 0;
+  padding: 5% 0 10% 0;
+  text-align: center;
+}
+.para2 {
+  font-weight: 700;
+  font-size: 20px;
+  margin: 0;
+  padding: 5% 20%;
+  text-align: center;
+}
+.download_btn {
+  border: none;
+  border-radius: 14px;
+  padding: 18px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff1dc;
+  background-color: #3889a6;
+  box-shadow: 5px 5px 5px 0 rgb(61, 61, 61);
+  margin: 0 10px 15px 10px;
+}
+.download_btn:hover {
+  background-color: #1b4656;
+  cursor: pointer;
+}
+.Sign_Up_Btn {
+  border: none;
+  border-radius: 20px;
+  padding: 15px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff1dc;
+  background-color: #3a98b9;
+  box-shadow: 5px 5px 5px 0 rgb(61, 61, 61);
+  margin: 15px 0 12px 0;
+  margin-left: 42%;
+}
+.Sign_Up_Btn:hover {
+  background-color: #153540;
+  cursor: pointer;
+}
+.container4 {
+  text-align: center;
+  padding: 3% 0 2% 0;
+}
+.fa-brands {
+  margin-right: 10px;
+}
+.foot_anchor {
+  color: #3889a6;
+}
+.foot_anchor:hover {
+  color: #1b4656;
+}
